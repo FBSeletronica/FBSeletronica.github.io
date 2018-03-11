@@ -1,10 +1,10 @@
 # Site
-title:          JBlog
-bio:            'Just a simple Jekyll theme'
+title:          Fábio Souza
+bio:            'Electrical Engineer, Entrepreneur, and Teacher'
 description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
 picture:        'assets/img/profile.png'
 locale:         en_US
-url:            https://FBSeletronica.github.io/JBlog
+url:            https://FBSeletronica.github.io
 
 
 # Jekyll
