@@ -1,7 +1,7 @@
 # Site
 title:          Fábio Souza
 bio:            'Electrical Engineer, Entrepreneur, and Teacher'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
+description:    "Siga-me nas redes sociais."
 picture:        'assets/img/profile.png'
 locale:         en_US
 url:            https://FBSeletronica.github.io
@@ -34,17 +34,17 @@ facebook: fabio.souza.77398
   #ad-slot:
 #bing-verify:
 github: FBSeletronica
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin: username
 #xing: username
 instagram: fabiosouza.io
-lastfm: username
-tumblr: username
+#lastfm: username
+#tumblr: username
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
-youtube: username
+#youtube: username
 #soundcloud: username
 #weibo: username
 #flickr: username
