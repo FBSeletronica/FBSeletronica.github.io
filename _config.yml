@@ -1,11 +1,7 @@
 # Site
 title:          Fábio Souza
 bio:            'Electrical Engineer, Entrepreneur, and Teacher'
-description:    "Fabio souza, engenheiro com experiência no desenvolvimento de projetos eletrônicos embarcados. Trabalhou com ensino técnico de eletrônica e programação. Hoje é diretor de operações do portal Embarcados, onde trabalha para levar conteúdo de eletrônica, sistemas embarcados e IoT para o Brasil. 
-
-Entusiastas do movimento maker, DIY e do compartilhamento de conhecimento, publica diversos artigos sobre eletrônica e sistemas Embarcados, além de projetos open hardware. É líder do projeto Franzininho, uma placa compatível com a Arduino e mantida pela comunidade. Realiza palestras, cursos e workshops onde leva conhecimento para as pessoas de forma presencial. 
-
-Confira as atualizações no blog e os projetos que estou trabalhando. Se você quiser entrar em contato, sinta-se à vontade para entrar em contato através das redes sociais abaixo."
+description:    "Confira as atualizações no blog e os projetos que estou trabalhando. Se você quiser entrar em contato, sinta-se à vontade para entrar em contato através das redes sociais abaixo."
 picture:        'assets/img/profile.png'
 locale:         en_US
 url:            https://FBSeletronica.github.io
