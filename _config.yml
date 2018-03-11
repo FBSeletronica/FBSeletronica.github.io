@@ -24,8 +24,8 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 #email:
-twitter: username
-facebook: username
+twitter: https://twitter.com/FBSeletronica
+facebook: https://www.facebook.com/fabio.souza.77398
 #google:
   #plus: #username
   #analytics:
@@ -37,7 +37,7 @@ github: username
 stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin: username
 #xing: username
-instagram: username
+instagram: https://github.com/FBSeletronica
 lastfm: username
 tumblr: username
 #pinterest: username
